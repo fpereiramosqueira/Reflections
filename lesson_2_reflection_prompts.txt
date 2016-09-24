@@ -14,3 +14,11 @@ it is an intermediate step to track file changes (from initial status) before a 
 How can you use the staging area to make sure you have one commit per logical change?
 
 You can add the files you want to include in the specific commit at once and then commit them in one shot
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+
+git branch --> show all branches
+git branch branch-name
+git checkout branch-name
+
+barnches for tests or versions of the software
