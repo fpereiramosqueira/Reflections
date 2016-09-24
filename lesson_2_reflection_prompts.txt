@@ -10,3 +10,7 @@ git init initializes a new repository
 How is the staging area different from the working directory and the repository? What value do you think it offers?
 
 it is an intermediate step to track file changes (from initial status) before a commit. It gives the added value that then you can commit as a group of files 
+
+How can you use the staging area to make sure you have one commit per logical change?
+
+You can add the files you want to include in the specific commit at once and then commit them in one shot
