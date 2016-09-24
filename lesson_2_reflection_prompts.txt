@@ -1,0 +1,7 @@
+What happens when you initialize a repository? Why do you need to do it?
+
+.git folder is created where metadata is stored regarding commits, etc.
+
+git status give me info about the repository itself
+git log gives me info about the commits
+git init initializes a new repository

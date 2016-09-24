@@ -1,0 +1,36 @@
+How did viewing a diff between two versions of a file help you see the bug that
+was introduced?
+
+    Pretty useful, going manually thru files is not efficient
+
+How could having easy access to the entire history of a file make you a more
+efficient programmer in the long term?
+
+    Really  big impact on my daily work, recovering any old version of my files
+
+What do you think are the pros and cons of manually choosing when to create a
+commit, like you do in Git, vs having versions automatically saved, like Google
+docs does?
+
+    Pros: is that you save only version you think are OK. Cons: you can miss some interesting version in the future of your development
+
+Why do you think some version control systems, like Git, allow saving multiple
+files in one commit, while others, like Google Docs, treat each file separately?
+
+    More programming oriented. logical changes might affect more than one file
+
+How can you use the commands git log and git diff to view the history of files?
+
+    Git log is to find the right commii I am lookig for and then diff with the version I want to compare with
+
+How might using version control make you more confident to make changes that
+could break something?
+
+    Definitely no issue testing new approaches as you can always reverse to the latest working point.
+
+Now that you have your workspace set up, what do you want to try using Git for?
+
+    Engineering Objects control such as :FEM, CAD, etc.
+Open Ultraedit
+
+		uedit32 lesson_1_reflection_prompts.txt
