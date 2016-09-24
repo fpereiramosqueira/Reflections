@@ -5,3 +5,8 @@ What happens when you initialize a repository? Why do you need to do it?
 git status give me info about the repository itself
 git log gives me info about the commits
 git init initializes a new repository
+
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+it is an intermediate step to track file changes (from initial status) before a commit. It gives the added value that then you can commit as a group of files 
