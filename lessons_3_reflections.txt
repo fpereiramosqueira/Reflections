@@ -1,0 +1,6 @@
+GIThub create remote
+git remote add origin https://github.com/fpereiramosqueira/Reflections.git
+
+git remote -v
+
+git push master
