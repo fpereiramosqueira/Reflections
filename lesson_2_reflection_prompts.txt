@@ -20,5 +20,13 @@ What are some situations when branches would be helpful in keeping your history 
 git branch --> show all branches
 git branch branch-name
 git checkout branch-name
-
+git checkout -b branch-name--> Create and checkout branch at once
 barnches for tests or versions of the software
+
+git log --graph --oneline master coins.
+
+
+How do the diagrams help you visualize the branch structure?
+
+It helps to visualise parents from your branch tip and common commits with other branches
+
