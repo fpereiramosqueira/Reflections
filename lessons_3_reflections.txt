@@ -4,3 +4,4 @@ git remote add origin https://github.com/fpereiramosqueira/Reflections.git
 git remote -v
 
 git push master
+git pull origin master --> download updated from GITHUB
