@@ -5,3 +5,7 @@ git remote -v
 
 git push master
 git pull origin master --> download updated from GITHUB
+
+Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
+
+only make it public when you choose it
