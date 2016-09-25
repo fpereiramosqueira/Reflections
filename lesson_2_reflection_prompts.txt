@@ -21,7 +21,9 @@ git branch --> show all branches
 git branch branch-name
 git checkout branch-name
 git checkout -b branch-name--> Create and checkout branch at once
-barnches for tests or versions of the software
+git branch -d coins--> delete branch level. to be done after merging it with another branch (if done without merging it will delete all the commits in this branch)
+
+Branches for tests or versions of the software
 
 git log --graph --oneline master coins.
 
@@ -30,3 +32,16 @@ How do the diagrams help you visualize the branch structure?
 
 It helps to visualise parents from your branch tip and common commits with other branches
 
+git show commitID --> git diff with its parent
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+
+git merge branch1 branch2 --> merge branch 2 into branch 1
+
+gliffy yUML--> herramientas para ver branches
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+
+pros--> you don´t need to resolve as many conflicts between versions
+
+git reset --hard HEAD~1--> delete latest commit forever
