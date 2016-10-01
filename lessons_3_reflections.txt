@@ -28,3 +28,7 @@ You are aware about changes donde by other people collaborating in the same proj
 
 How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
 In a shared folder you cannot pull request to other colleagues
+
+When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+
+When yiu susoect ohter people might be working in the same files/area that you are and you want to ask for approval before comitting
