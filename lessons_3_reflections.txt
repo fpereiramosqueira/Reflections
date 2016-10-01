@@ -21,3 +21,7 @@ Fork directs links a github repo to your github
 Clone is just a copy of a repo, loosing traceability,
 
 Brach works inside a specific repo
+
+What is the benefit of having a copy of the last known state of the remote stored locally?
+
+You are aware about changes donde by other people collaborating in the same project
