@@ -13,3 +13,11 @@ only make it public when you choose it
 How to take credentials and avoid repeting it for everypush to GITUHB
 
 git config --global credential.helper wincred
+
+Describe the differences between forks, clones, and branches. When would you use one instead of another?
+
+Fork directs links a github repo to your github
+
+Clone is just a copy of a repo, loosing traceability,
+
+Brach works inside a specific repo
