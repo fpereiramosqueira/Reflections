@@ -25,3 +25,6 @@ Brach works inside a specific repo
 What is the benefit of having a copy of the last known state of the remote stored locally?
 
 You are aware about changes donde by other people collaborating in the same project
+
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+In a shared folder you cannot pull request to other colleagues
